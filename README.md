@@ -28,7 +28,7 @@ You have **60 minutes** to complete all tasks. Good luck!
    - Loads `sales.csv` using `pandas`
    - Columns: `product`,`units`,`price`
    - **Task**: Add a `total_revenue` column (`units * price`).
-   - Imports and uses the `calculate_total_revenue()` function from `helpers.py`
+   - Imports and uses the `add_revenue()` function from `helpers.py`
    - Saves the updated data as `sales_with_revenue.csv`
    - Creates a simple bar plot of `product` vs `revenue` and saves it as `revenue_plot.png`
 4. **Run your script** to generate the output files.
